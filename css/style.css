@@ -1,0 +1,42 @@
+.h1{
+    font-size: 3.75rem; /* 60px */
+}
+
+.para-xl {
+    font-size: 2.1875rem; /* 35 px */
+}
+
+.para-lg {
+    font-size: 1.5rem;  /* 24 px */
+}
+.para-max {
+    font-size: 1.25rem; /* 20px */
+}
+
+.para-medium {
+    font-size: 1.125rem; /* 18px */
+}
+
+.para-small {
+    font-size: 1rem; /* 16px */
+}
+
+.para-min {
+    font-size: 0.9375rem; /* 15 */
+}
+
+.para-xmin {
+    font-size: 0.875rem; /* 14 */
+}
+
+.para-xxmin{
+    font-size: 0.75rem; /* 12px */
+}
+
+.para-xxxmin {
+    font-size: 0.625rem; /* 10px */
+}
+
+.text-0min{
+    font-size: 0.5rem; /* 8px */
+}
